@@ -9,13 +9,11 @@ sites:
     url: https://billing.inflamed.host
   - name: Game Panel
     url: https://panel.inflamed.host
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Node 1 (Finland)
+    url: node.inflamed.host
+    #port: 80
+    check: "ping"
+    #ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

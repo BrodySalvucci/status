@@ -58,17 +58,19 @@
     "url": "node.inflamed.host",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1-finland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 917,
-    "timeWeek": 877,
-    "timeMonth": 943,
-    "timeYear": 935,
-    "dailyMinutesDown": {}
+    "time": 918,
+    "timeDay": 643,
+    "timeWeek": 813,
+    "timeMonth": 924,
+    "timeYear": 918,
+    "dailyMinutesDown": {
+      "2024-10-21": 0
+    }
   }
 ]

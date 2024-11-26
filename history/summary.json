@@ -4,10 +4,10 @@
     "url": "https://inflamed.host",
     "icon": "https://icons.duckduckgo.com/ip3/inflamed.host.ico",
     "slug": "inflamed-hosting-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 602,
@@ -15,17 +15,19 @@
     "timeWeek": 647,
     "timeMonth": 606,
     "timeYear": 602,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 2
+    }
   },
   {
     "name": "Billing Panel",
     "url": "https://billing.inflamed.host",
     "icon": "https://icons.duckduckgo.com/ip3/billing.inflamed.host.ico",
     "slug": "billing-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1486,
@@ -33,16 +35,18 @@
     "timeWeek": 1627,
     "timeMonth": 1481,
     "timeYear": 1486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 1
+    }
   },
   {
     "name": "Game Panel",
     "url": "https://panel.inflamed.host",
     "icon": "https://icons.duckduckgo.com/ip3/panel.inflamed.host.ico",
     "slug": "game-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.92%",
@@ -52,6 +56,7 @@
     "timeMonth": 547,
     "timeYear": 536,
     "dailyMinutesDown": {
+      "2024-11-26": 1,
       "2024-11-22": 77
     }
   },
@@ -60,7 +65,7 @@
     "url": "node.inflamed.host",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1-finland",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +76,8 @@
     "timeWeek": 996,
     "timeMonth": 948,
     "timeYear": 924,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 0
+    }
   }
 ]
